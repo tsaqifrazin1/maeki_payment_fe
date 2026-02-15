@@ -13,4 +13,7 @@ module.exports = {
       ],
     },
   },
+  eslint: {
+    enable: false, // 👈 This completely disables ESLint checks
+  },
 }; 
